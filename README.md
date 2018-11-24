@@ -1,4 +1,4 @@
-# The Minimalistic React Boilerplate.
+# The Only Minimalistic React Boilerplate.
 
 <img src="https://image.ibb.co/inODKq/Screen-Shot-2018-11-23-at-3-25-08-PM.png" alt="React 16 Boilerplate" align="center" />
 
@@ -16,3 +16,9 @@
 * npm install
 * npm start
 * visit `http://localhost:8080/`
+
+## Future
+* Eslint Configuration
+* Testing Configuration
+* Editor Configuration
+* React Router 4

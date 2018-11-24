@@ -1,5 +1,6 @@
-# Minimal-React-16-Boilerplate
-🔥 Minimal React 16 Boilerplate 
+# 🔥Minimal-React-16-Boilerplate
+
+<img src="https://ibb.co/fyd2CA" alt="React 16 Boilerplate" align="center" />
 
 ## Features
 

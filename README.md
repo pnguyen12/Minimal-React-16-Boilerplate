@@ -1,4 +1,4 @@
-# The Only Minimalistic React Boilerplate.
+# Minimal React 16 Boilerplate
 
 <img src="https://image.ibb.co/inGKQV/Screen-Shot-2018-11-23-at-6-43-14-PM.png" alt="React 16 Boilerplate" align="center" />
 

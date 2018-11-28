@@ -3,10 +3,12 @@ import ReactDOM from 'react-dom';
 import Home from './components/Home';
 import './styles.scss';
 
+const title = 'Minimal React Boilerplate'
+
 const App = () => {
     return (
         <div className="app">
-            <Home />
+            <Home title={title}/>
         </div>
     )
 }

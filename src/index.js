@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Home from './components/Home';
-import './index.scss';
+import './static/styles/base.scss';
 
 const title = 'Minimal React Boilerplate'
 

@@ -1,0 +1,13 @@
+@keyframes moveInLeft {
+    0% {
+        transform: translateX(-100px);
+        opacity: 0;
+    }
+    80% {
+        transform: translateX(10px);
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}

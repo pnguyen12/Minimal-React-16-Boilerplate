@@ -7,7 +7,7 @@ const Home = ({ title }) => {
         <div className="home-wrapper">
             <header className="home-header">
                 <p className="home-header-text">{title}</p>
-                <Button text="Get Started" className="btn btn-main" />
+                <Button text="Get Started" className="btn btn-white btn-animate" />
             </header>
         </div>
     )

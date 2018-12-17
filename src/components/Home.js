@@ -2,11 +2,12 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Button from './atoms/Button'; 
 
-const Home = ({ title }) => {
+const Home = ({ title, sub }) => {
     return (
         <div className="home-wrapper">
             <header className="home-header">
                 <p className="home-header-text">{title}</p>
+                <p className="home-header-sub">{sub}</p>
                 <Button text="Get Started" className="btn btn-white btn-animate" />
             </header>
         </div>

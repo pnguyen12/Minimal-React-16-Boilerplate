@@ -19,6 +19,5 @@
 
 ## Future
 * Eslint Configuration
-* Testing Configuration
 * Editor Configuration
 * React Router 4

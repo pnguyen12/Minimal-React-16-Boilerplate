@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/pnguyen12/Minimal-React-16-Boilerplate/blob/master/LICENSE)
+
 # Minimal React 16 Boilerplate
 
 <img src="https://image.ibb.co/inGKQV/Screen-Shot-2018-11-23-at-6-43-14-PM.png" alt="React 16 Boilerplate" align="center" />

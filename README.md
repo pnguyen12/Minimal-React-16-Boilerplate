@@ -11,7 +11,7 @@
 * Babel 7
 * Hot Module Replacement
 * Jest For Snapshot Testing
-* Enzyme For Component Rendering and Interacting with DOM nodes
+* Enzyme For Testing Component Rendering and Interacting with DOM nodes
 
 ## Installation
 

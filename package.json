@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": "Peter Nguyen <peterndevelopment@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "prop-types": "^15.6.2",
     "react": "^16.6.3",

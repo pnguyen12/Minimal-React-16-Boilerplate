@@ -5,13 +5,13 @@
 <img src="https://image.ibb.co/inGKQV/Screen-Shot-2018-11-23-at-6-43-14-PM.png" alt="React 16 Boilerplate" align="center" />
 
 ## Features
-
+* Babel 7
+* ESLint
+* HMR
+* Jest For Snapshot Testing
+* Enzyme For Testing Component Output
 * React 16
 * Webpack 4
-* Babel 7
-* Hot Module Replacement
-* Jest For Snapshot Testing
-* Enzyme For Testing Component Rendering and Interacting with DOM nodes
 
 ## Installation
 

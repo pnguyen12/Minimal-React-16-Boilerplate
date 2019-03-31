@@ -28,6 +28,4 @@
 * `npm run test:c` for a coverage report
 
 ## Future
-* Eslint Configuration
-* Editor Configuration
 * React Router 4
